@@ -269,7 +269,7 @@ public class MainActivity extends AppCompatActivity {
             mTextView.setText(getResources().getString(R.string.prime_fac) + String.valueOf(list));
             //to free
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR);
-           // mProgress.dismiss();
+            mProgress.dismiss();
         }
 
 
