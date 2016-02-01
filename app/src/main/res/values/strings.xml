@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prime Factorization</string>
+    <string name="app_title">Prime Factorization Calculator</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="action_settings">Exit</string>
+    <string name="first_no_star">Please Enter Number</string>
+    <string name="submit">Calculate</string>
+    <string name="result_hint">Result</string>
+    <string name="progress">Calculating</string>
+    <string name="invalid_value">invalid value</string>
+    <string name="prime_fac">Prime factorisation</string>
+    <string name="cancel">cancel</string>
+
+
+
+
+</resources>

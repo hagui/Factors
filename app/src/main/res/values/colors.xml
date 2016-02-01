@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_in">#9C27B0</color>
+    <color name="primary_dark_in">#7B1FA2</color>
+    <color name="primary_light_in">#E1BEE7</color>
+    <color name="accent_in">#536DFE</color>
+    <color name="primary_text_in">#212121</color>
+    <color name="secondary_text_in">#727272</color>
+    <color name="icons_in">#FFFFFF</color>
+    <color name="divider_in">#B6B6B6</color>
+
+    <color name="normal_start">#FF9800</color>
+    <color name="normal_end">#F57C00</color>
+    <color name="normal_border">#00000000</color>
+    <color name="normal_text">#FFFFFF</color>
+    <color name="normal_start_multi">#CB5500</color>
+    <color name="normal_end_multi">#F88800</color>
+
+    <color name="pressed_start">#c2ffe0b2</color>
+    <color name="pressed_end">#a3ffe0b2</color>
+    <color name="pressed_border">#00000000</color>
+    <color name="pressed_text">#000000</color>
+    <color name="pressed_start_multi">#F88800</color>
+    <color name="pressed_end_multi">#CB5500</color>
+
+    <color name="focused_start">#944224</color>
+    <color name="focused_end">#D8703B</color>
+    <color name="focused_border">#00000000</color>
+    <color name="focused_text">#000000</color>
+    <color name="focused_start_multi">#F88800</color>
+    <color name="focused_end_multi">#CB5500</color>
+    <color name="focused_start_multi_1">#FDD401</color>
+    <color name="focused_end_multi_1">#E68E15</color>
+
+    <color name="disabled_start">#a3ffe0b2</color>
+    <color name="disabled_end">#a3ffe0b2</color>
+    <color name="disabled_border">#00000000</color>
+    <color name="disabled_text">#888888</color>
+    <color name="disabled_start_multi">#EFC49A</color>
+    <color name="disabled_end_multi">#E0B18E</color>
+
+    <color name="disabled_and_focused_start">#C29B8C</color>
+    <color name="disabled_and_focused_end">#E2AE94</color>
+    <color name="disabled_and_focused_border">#B27E6B</color>
+    <color name="disabled_and_focused_text">#B27E6B</color>
+    <color name="disabled_and_focused_start_multi">#F2E08F</color>
+    <color name="disabled_and_focused_end_multi">#EAC896</color>
+</resources>
